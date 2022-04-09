@@ -19,7 +19,7 @@
   "homepage": "https://github.com/BarriosFreddy/node-fundamentals#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "sharp": "^0.25.3"
   }
 }
